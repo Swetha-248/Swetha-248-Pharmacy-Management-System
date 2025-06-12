@@ -1,0 +1,52 @@
+✅ Features:
+Login System (Admin/Pharmacist)
+
+Add / View / Update / Delete Medicines
+
+Search Medicines
+
+Generate Bills
+
+Stock Management
+
+Database Integration (MySQL)
+
+🛠️ Tech Stack:
+Java (Swing) for GUI
+
+JDBC for Database Connectivity
+
+MySQL as Database
+
+📁 Project Structure:
+css
+Copy code
+PharmacyManagementSystem/
+│
+├── src/
+│   ├── Main.java
+│   ├── LoginFrame.java
+│   ├── Dashboard.java
+│   ├── AddMedicine.java
+│   ├── ViewMedicines.java
+│   ├── GenerateBill.java
+│   └── DBConnection.java
+│
+└── database/
+    └── pharmacy.sql
+
+
+🧩 Key Features
+User Authentication
+
+Medicine Inventory Management
+
+Sales and Billing
+
+Customer Records
+
+Reports and Statistics
+
+Supplier Management
+
+Low Stock Alerts
